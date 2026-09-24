@@ -11,7 +11,7 @@
 
 This was my main project for BYU's Devops class. I took a pre-built application and added significant automation, testing, and metrics tracking to it. Once these features were added, our applications were put under penetration and chaos testing to validate our work. Here is a diagram taken from the class overview which shows the technologies and practices I utilized:
 
-![BYU Devops overview](/images/devops-overview)
+![BYU Devops overview](/images/devops-overview.png)
 
 Here are some of the things I learned while undertaking this project:
 
